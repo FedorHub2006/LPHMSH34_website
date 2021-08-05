@@ -1,0 +1,24 @@
+body{
+		background-image: url(each.png);
+}
+.u{
+		transition: 1.0s all; 
+		color:#FF0000;
+		text-align: center;
+		font-weight: 600;
+		font-size: 25px;
+		padding: 20px;
+		border: 1px solid #EB0DE4;
+		background-color: white;
+		border-radius: 50px;
+		margin-bottom: 20px;
+		vertical-align: middle;
+		box-shadow: 10px 10px 5px #000000;
+		opacity: 0.5;
+}
+.f{
+	margin-top: 300px;
+}
+.u:hover{
+		opacity: 1.0;
+}
